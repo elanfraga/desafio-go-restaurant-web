@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
+      "price": "20.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://cdn.panelinha.com.br/receita/1588270905274-39_Panelinha_12_02_200635.jpg",
+      "name": "Fejoada",
+      "price": "55,90",
+      "description": "Feijoada competa",
+      "available": true,
+      "id": 4
     }
   ]
 }
